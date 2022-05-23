@@ -11,7 +11,7 @@ spec:
   source:
     git:
       ref: master
-      uri: 'http://192.168.56.150/root/simple-webapp.git'
+      uri: 'E:\Saurabh\GIT\openshift\simple-webapp-flask-docker.git'
     type: Git
   strategy:
     dockerStrategy:
